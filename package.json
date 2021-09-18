@@ -1,0 +1,30 @@
+{
+  "name": "npmcourse",
+  "version": "1.0.0",
+  "description": "Learning node npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1DiegoG1/npmCourse.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Diego González <diegom.develops@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1DiegoG1/npmCourse/issues"
+  },
+  "homepage": "https://github.com/1DiegoG1/npmCourse#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.23.0"
+  }
+}
